@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uu9tvLn89dKVWTHhIBOWWvpbCi8d4g/wSjaxh1bUtgHP5dKyoGlB5kG4e2autpEhirCV4nvu/9hMN+47VEHSJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\clash\\OneDrive\\Desktop\\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\\Shop\\Shop.Core\\Shop.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clash\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\clash\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\clash\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
