@@ -1,0 +1,12 @@
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Core\bin\Debug\net6.0\Shop.Core.deps.json
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Core\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Core\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.AssemblyReference.cache
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfoInputs.cache
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfo.cs
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.CoreCompileInputs.cache
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.dll
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Core\obj\Debug\net6.0\refint\Shop.Core.dll
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Core\obj\Debug\net6.0\Shop.Core.pdb
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Core\obj\Debug\net6.0\ref\Shop.Core.dll

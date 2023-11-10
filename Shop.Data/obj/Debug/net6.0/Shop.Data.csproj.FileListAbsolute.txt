@@ -1,0 +1,17 @@
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\bin\Debug\net6.0\Shop.Data.deps.json
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\bin\Debug\net6.0\Shop.Data.runtimeconfig.json
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\bin\Debug\net6.0\Shop.Data.dll
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\bin\Debug\net6.0\Shop.Data.pdb
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.csproj.AssemblyReference.cache
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.AssemblyInfoInputs.cache
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.AssemblyInfo.cs
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.csproj.CoreCompileInputs.cache
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.csproj.CopyComplete
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.dll
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\obj\Debug\net6.0\refint\Shop.Data.dll
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.pdb
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\obj\Debug\net6.0\Shop.Data.genruntimeconfig.cache
+C:\Users\clash\OneDrive\Desktop\ShopTARgv22-2ac8a1c47fedb162d30a6665d1ed08c6ecb5a156\Shop\Shop.Data\obj\Debug\net6.0\ref\Shop.Data.dll
